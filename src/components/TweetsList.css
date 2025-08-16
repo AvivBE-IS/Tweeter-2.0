@@ -1,0 +1,10 @@
+.tweetsList {
+  width: 51vw;
+  height: 30vh;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(21, 32, 43);
+  font-size: larger;
+  color: white;
+  margin-top: 5vh;
+}

@@ -1,0 +1,7 @@
+div > button {
+  position: relative;
+  top: -11vh; /* distance from top of textarea */
+  right: -43vw; /* distance from right of textarea */
+  background-color: rgb(2, 123, 255);
+  color: white;
+}
